@@ -1,0 +1,32 @@
+{
+  "name": "metaverse",
+  "version": "0.2.0",
+  "description": "a sample node.js app",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "debug": "^3.1.0",
+    "jquery": "^3.1.1",
+    "lodash": "^4.17.4",
+    "mustache": "^2.3.0",
+    "package.json": "^2.0.1",
+    "pkg.json": "^2.0.6",
+    "popper.js": "^1.12.9",
+    "semver": "^5.5.0",
+    "startbootstrap-stylish-portfolio": "^4.0.0-beta"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tharveybrown/node-js.git"
+  },
+  "keywords": [
+    "json"
+    "node"
+  ],
+  "author": "tharveybrown",
+  "license": "MIT"
+}
